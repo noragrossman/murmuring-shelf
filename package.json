@@ -1,0 +1,19 @@
+{
+  "name": "murmuring-shelf",
+  "version": "1.0.0",
+  "description": "Exploring Node apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noragrossman/murmuring-shelf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noragrossman/murmuring-shelf/issues"
+  },
+  "homepage": "https://github.com/noragrossman/murmuring-shelf#readme"
+}
