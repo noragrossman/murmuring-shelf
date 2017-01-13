@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/noragrossman/murmuring-shelf/issues"
   },
-  "homepage": "https://github.com/noragrossman/murmuring-shelf#readme"
+  "homepage": "https://github.com/noragrossman/murmuring-shelf#readme",
+  "engines": {
+    "node": "6.9.4"
+  }
 }
